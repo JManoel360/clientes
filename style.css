@@ -4,10 +4,10 @@
 }
 
 .carrossel .carrossel-wrapper{
-    max-width: 400px;
-    height: 600px;
+    max-width: 500px;
+    height: 500px;
     position: relative;
-    background-color: black;
+    background-color: white;
     border-radius: 10px;
 }
 
