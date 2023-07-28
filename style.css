@@ -32,7 +32,7 @@
 .prev-btn, .next-btn{
     position: absolute;
     bottom: 40%;
-    transform: translateY(-50%);
+    transform: translateY(-40%);
     font-size: 1rem;
     width: 2.5rem;
     height: 2rem;
