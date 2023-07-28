@@ -13,8 +13,8 @@
 
 .carrossel .carrossel-item img{
     object-fit: cover;
-    width: 100%;
-    max-width: 400px;
+    width: 500px;
+    max-width: 500px;
     height: auto;
     border-radius: 10px;    
 }
